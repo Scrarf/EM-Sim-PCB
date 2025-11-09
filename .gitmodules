@@ -1,0 +1,3 @@
+[submodule "PCB_For_FPGA_Path_Tracer"]
+	path = PCB_For_FPGA_Path_Tracer
+	url = https://github.com/Scrarf/PCB_For_FPGA_Path_Tracer
