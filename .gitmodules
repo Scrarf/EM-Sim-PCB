@@ -1,9 +1,9 @@
 [submodule "PCB_For_FPGA_Path_Tracer"]
 	path = PCB_For_FPGA_Path_Tracer
 	url = https://github.com/Scrarf/PCB_For_FPGA_Path_Tracer
-[submodule "kicad-si-simulation-wrapper"]
-	path = kicad-si-simulation-wrapper
-	url = https://github.com/antmicro/kicad-si-simulation-wrapper
 [submodule "gerber2ems"]
 	path = gerber2ems
 	url = https://github.com/antmicro/gerber2ems
+[submodule "gerber2blend"]
+	path = gerber2blend
+	url = https://github.com/antmicro/gerber2blend
